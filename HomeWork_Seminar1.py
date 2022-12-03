@@ -17,7 +17,7 @@
 # for x in range(0,2):
 #     for y in range(0,2):
 #         for z in range(0,2):
-#             a = not(x or y or z) == (not y or not y or not z)
+#             a = not(x or y or z) == (not x or not y or not z)
 # print(a)
 
 # # Напишите программу, которая принимает на вход координаты точки (X и Y), причём X ≠ 0 и Y ≠ 0 и выдаёт номер четверти плоскости, в которой находится эта точка 
